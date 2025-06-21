@@ -2,6 +2,7 @@
     "name": "yusranabdulah/laravel-accessibility",
     "license": "MIT",
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "Ohad Goldstein",
